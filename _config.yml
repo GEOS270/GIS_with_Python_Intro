@@ -1,0 +1,23 @@
+title: Module 7
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+github_repo_url: "https://geos270.github.io/Module6/"
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+aux_links:
+  "Course Schedule":
+    - "https://geos270.github.io/Syllabus/docs/Overview.html#course-schedule"
+  "View on github":
+    - "https://github.com/GEOS270/Module7"
+
+# license information for workshop content
+license_name: "Creative Commons Attribution 4.0 International License"
+license_url: "http://creativecommons.org/licenses/by/4.0/"
+license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
+
+# required for building jekyll site locally
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
