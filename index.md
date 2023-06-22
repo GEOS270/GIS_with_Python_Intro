@@ -59,7 +59,7 @@ ESRI has a platform called [ArcGIS Online](https://www.arcgis.com/index.html).  
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="Python_Notebooks/MtPleasant_Trees.html" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="Python_Notebooks\MtPleasant_Trees.html" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -69,7 +69,7 @@ ESRI has a platform called [ArcGIS Online](https://www.arcgis.com/index.html).  
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="../Python_Notebooks/MtPleasant_Trees.html" target="_blank">View Map in New Tab</a>
+<a href="Python_Notebooks/MtPleasant_Trees.html" target="_blank">View Map in New Tab</a>
 
 # Using Python for GIS
 
