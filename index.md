@@ -59,7 +59,7 @@ ESRI has a platform called [ArcGIS Online](https://www.arcgis.com/index.html).  
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="../Python_Notebooks/MtPleasant_Trees.html" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="Python_Notebooks/MtPleasant_Trees.html" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
